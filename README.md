@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Receitas App
 
 Aplicativo simples feito com React Native e Expo para consultar receitas usando a API TheMealDB.
@@ -19,3 +20,6 @@ Aplicativo simples feito com React Native e Expo para consultar receitas usando 
 ## API
 
 https://www.themealdb.com/api/json/v1/1/search.php?s=chicken
+=======
+# AC2-Mobile-development
+>>>>>>> 0d7812b86ad779cb0af80250006321b41a25b690
